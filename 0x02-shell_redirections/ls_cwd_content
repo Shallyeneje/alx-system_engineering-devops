@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 2 root root 242 Dec  5 20:48 .
+drwxr-xr-x 4 root root  49 Dec  5 13:08 ..
+-rw-r--r-- 1 root root  29 Dec  5 13:25 0-hello_world
+-rw-r--r-- 1 root root  39 Dec  5 14:03 <1-confused_smiley>
+-rw-r--r-- 1 root root  12 Dec  5 14:05 1-confused_smiley
+-rw-r--r-- 1 root root  44 Dec  5 14:49 2-hellofile
+-rw-r--r-- 1 root root  34 Dec  5 19:26 3-twofiles
+-rw-r--r-- 1 root root  39 Dec  5 20:13 5-firstlines
+-rw-r--r-- 1 root root 776 Dec  5 20:34 6-thirdline
+-rw-r--r-- 1 root root  38 Dec  5 20:47 8-cw_state
+-rw-r--r-- 1 root root 776 Dec  5 20:34 <!iacta>
+-rw-r--r-- 1 root root 776 Dec  5 20:34 <iacta!>
+-rw-r--r-- 1 root root 776 Dec  5 20:33 <iacta>
+-rw-r--r-- 1 root root   0 Dec  5 20:48 ls_cwd_content
